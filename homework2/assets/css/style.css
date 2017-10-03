@@ -1,0 +1,118 @@
+/** {border: solid black;}*/
+
+.name {
+	background: #4b9393;
+	float: left;
+	margin-left: 100px;
+	margin-bottom:15px;
+}
+
+p {
+	color: black;
+	padding-right: 10px;
+	padding-left: 10px;
+
+}
+
+h1 {
+	color: white; 	
+}
+
+#me {
+	width: 200px;
+	float:left;
+}
+
+.navbar  li{
+	float: right;
+	display: inline-block;
+	list-style-type: none;
+	padding: inherit;
+	margin-right: 30px;
+}
+
+.active{
+	color:blue;
+}
+
+.picture {
+	clear: both;
+	border: 1px solid black;
+	width: 50%;
+	float: left;
+	background-color: white;
+	color: #4b9393;
+	margin-left: 100px;	
+}
+
+.contacts {
+	border: 1px solid black;
+	float: left;
+	padding-left: 46px;
+	background-color: white;
+	color: #4b9393
+	width:200px;
+	margin-left: 30px;
+
+}
+
+.contacts nav{
+
+}
+
+h3 {
+	padding-left: 25px;
+	color: #4b9393;
+}
+
+footer {
+	clear: both;
+	width: 100%;
+	background-color: #4b9393;
+	padding: 10px;
+	color:white;
+	bottom:0;
+}
+
+.conbull li{
+	list-style-type: none;
+	display: inline;
+	
+}
+
+.pinline {
+	display: inline;
+}
+
+#floater {
+	float: unset;
+	padding-left: 220px;
+}
+
+body {
+	background-color: #dee0e0;
+}
+
+header{
+	width: 100%;
+	background: white;
+}	
+
+html, body {
+	height:100%;
+	margin:0;
+
+}
+
+.wrapper {
+	min-height: 100%;
+	margin-bottom: -50px;
+}
+
+footer, .push{
+	height:50px;
+}
+
+.conbull {
+	margin:0 auto;
+}
